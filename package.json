@@ -1,0 +1,14 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "Aprediendo sas,gulp,css grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Armijos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
